@@ -1,13 +1,13 @@
 /* eslint-disable import/no-anonymous-default-export */
 export default {
-  name: "Henry",
-  email: "therealjohndoe@gmail.com",
+  name: "Dani",
+  email: "soydanigfx@gmail.com",
   about:
-    "Hey! I'm <b>Henry</b>, a twenty-four years old <b>User Interface</b> and <b>Experience Designer</b> currently based in <b>California</b>.",
+    "Hey! I'm <b>Dani</b>,<b>User Interface</b> and <b>Experience Designer</b> currently based in <b>Spain</b>.",
 
   // intro
   accomplishments: {
-    name: "Recent Accomplishments",
+    name: "Accomplishments",
     value: [
       "Learned HTML + CSS",
       "Started a side project",
@@ -18,11 +18,8 @@ export default {
     name: "Social Links",
     value: [
       { name: "Instagram", link: "/" },
-      { name: "Dribbble", link: "/" },
       { name: "Twitter", link: "/" },
-      { name: "Github", link: "/" },
       { name: "Youtube", link: "/" },
-      { name: "Spotify", link: "/" },
     ],
   },
   currentProfession: {
@@ -39,11 +36,11 @@ export default {
     value: [
       {
         name: "Gmail",
-        value: "therealjohndoe@gmail.com",
+        value: "soydanigfx@gmail.com",
       },
       {
-        name: "Discord",
-        value: "DopeAss#9669",
+        name: "Twitter",
+        value: "@soydanigfx",
       },
     ],
   },
