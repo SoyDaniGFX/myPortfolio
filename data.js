@@ -11,9 +11,9 @@ export default {
   socialLink: {
     name: "Social Links",
     value: [
-      { name: "Instagram", link: "https://instagram.com/soydani.gfx" },
-      { name: "Twitter", link: "https://twitter.com/soydanigfx" },
-      { name: "Youtube", link: "https://www.youtube.com/channel/UCoUU3f3Vg-UYXZBDKNuixEg" },
+      { name: "Instagram" link: "https://instagram.com/soydani.gfx" },
+      { name: "Twitter" link: "https://twitter.com/soydanigfx" },
+      { name: "Youtube" link: "https://www.youtube.com/channel/UCoUU3f3Vg-UYXZBDKNuixEg" },
     ],
   },
   currentProfession: {
