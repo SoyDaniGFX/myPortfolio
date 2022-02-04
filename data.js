@@ -5,21 +5,15 @@ export default {
   about:
     "Hey! I'm <b>Dani</b>,<b>User Interface</b> and <b>Experience Designer</b> currently based in <b>Spain</b>.",
 
-  // intro
-  accomplishments: {
-    name: "Accomplishments",
-    value: [
-      "Learned HTML + CSS",
-      "Started a side project",
-      "Cooked meal for myself and choked to death",
+  
     ],
   },
   socialLink: {
     name: "Social Links",
     value: [
-      { name: "Instagram", link: "/" },
-      { name: "Twitter", link: "/" },
-      { name: "Youtube", link: "/" },
+      { name: "Instagram", link: "/https://instagram.com/soydani.gfx" },
+      { name: "Twitter", link: "/https://twitter.com/soydanigfx" },
+      { name: "Youtube", link: "/https://www.youtube.com/channel/UCoUU3f3Vg-UYXZBDKNuixEg" },
     ],
   },
   currentProfession: {
@@ -40,7 +34,7 @@ export default {
       },
       {
         name: "Twitter",
-        value: "@soydanigfx",
+        value: "https://twitter.com/soydanigfx",
       },
     ],
   },
